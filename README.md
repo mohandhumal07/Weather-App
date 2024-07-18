@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
