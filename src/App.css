@@ -1,0 +1,57 @@
+*{
+  font-size: 2vw;
+}
+body {
+	  	background-color: #B0C4DE;
+    	background-image: url('weather2.avif'); 
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	padding: 1vw; 
+}
+
+form {
+		border-radius:15px;
+		background-color:#E0FFFF;
+		margin-top: 1vw;
+  		margin-bottom: 1vw; 
+  		max-width: 50vw; 
+  		padding: 0.5vw;
+  		box-shadow: 0 0.2vw 4vw rgba(0, 0, 0, 0.5);
+}
+h1{
+	color:blue;
+	background-color:white;
+	width:70%;
+	border-radius:20px;
+   font-size: 2.5vw;
+}
+h2{
+  font-size: 2.2vw;
+}
+
+input[type="text"] {
+  width: 50%; 
+  padding: 0.8vw;
+  margin-bottom: 1vw; 
+  border: 0.1vw solid ;
+  border-radius: 0.3vw; 
+}
+
+input[type='submit'] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 1vw 2vw; 
+  cursor: pointer;
+  border-radius: 0.3vw; 
+}
+
+input[type="submit"]:hover {
+  background-color: white;
+	color:#0056b3;
+}
+
+
+
+
+
